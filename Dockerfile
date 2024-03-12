@@ -1,2 +1,1 @@
-FROM alpine
-CMD ["echo", "Hello CloudBuild!"]
+RUN echo 'we are running some # of cool things'
